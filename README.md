@@ -13,7 +13,7 @@ Please make sure this `package` / `dependencies` is available in your device
 - scipy
 - statmodels
 
-## How tu run locally
+## How to run locally
 
 - Please make sure that `outputs` directory is available inside
 
