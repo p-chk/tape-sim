@@ -27,6 +27,6 @@ Please make sure this `package` / `dependencies` is available in your device
 - Chong-wu, Rose
 - Gao, Xu
 - Kaewlaor, Lucas
-- Pan, XInyi
+- Pan, Xinyi
 - Zhu, Xinye
 
