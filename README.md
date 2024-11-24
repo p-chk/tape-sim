@@ -17,7 +17,7 @@ Please make sure this `package` / `dependencies` is available in your device
 
 - Please make sure that `outputs` directory is available inside
 
-- If there is a file inside `outputs` directury, please back it up elsewhere before running them because this will not be runnable
+- If there is a file inside `outputs` directory, please back it up elsewhere before running them because this will not be runnable
 
 - Run the `simulationprojectV2.ipynb` block by block
 
